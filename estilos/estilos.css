@@ -1,0 +1,19 @@
+/*Selector Universal*/
+*{
+    background-color: darkgreen;
+    color: black;
+}
+/*h1{
+    color:brown !important;
+
+    text-align: right;
+}*/
+/*Selectores de tipo ID*/
+#titulo{
+    color:rgb(255, 0, 0);
+    text-align: right;
+}
+/* Selector tipo clase*/
+.letra-letra{
+color: rgb(4, 0, 255);
+}
